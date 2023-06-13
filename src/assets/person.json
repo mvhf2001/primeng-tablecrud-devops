@@ -3,6 +3,7 @@
     {
       "id": "1",
       "name": "marcos",
+      "senha": 123,
       "born": "2001-08-16",
       "gender": "Masculino",
       "height": 1.77,
@@ -15,7 +16,7 @@
       "city": "Nome da Cidade",
       "state": "Nome do Estado",
       "zipCode": "51190485",
-      "senha": 123
+      
       
     }
   ]
