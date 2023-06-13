@@ -1,0 +1,23 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "marcos",
+      "born": "2001-08-16",
+      "gender": "Masculino",
+      "height": 1.77,
+      "weight": 65,
+      "notes": "alalalala",
+      "phone": 81985731811,
+      "street": "av. senador robert kennedy",
+      "number": "580",
+      "neighborhood": "ipsep",
+      "city": "Nome da Cidade",
+      "state": "Nome do Estado",
+      "zipCode": "51190485",
+      "senha": 123
+      
+    }
+  ]
+}
+
